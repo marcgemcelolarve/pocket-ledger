@@ -1,0 +1,15 @@
+{
+  "name": "Pocket Ledger — Personal Finance Tracker",
+  "short_name": "Pocket Ledger",
+  "description": "Private personal finance tracker with quick transaction logging and optional cloud sync.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f8f6",
+  "theme_color": "#17231f",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
